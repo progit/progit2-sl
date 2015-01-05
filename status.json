@@ -19,7 +19,7 @@
       "sections/getting-a-repository.asc": 100,
       "sections/recording-changes.asc": 40,
       "sections/remotes.asc": 100,
-      "sections/tagging.asc": 0,
+      "sections/tagging.asc": 100,
       "sections/undoing.asc": 100,
       "sections/viewing-history.asc": 0
     },
@@ -33,8 +33,8 @@
       "sections/workflows.asc": 100
     },
     "04-git-server": {
-      "1-git-server.asc": 0,
-      "sections/generating-ssh-key.asc": 0,
+      "1-git-server.asc": 100,
+      "sections/generating-ssh-key.asc": 100,
       "sections/git-daemon.asc": 0,
       "sections/git-on-a-server.asc": 0,
       "sections/gitlab.asc": 0,
