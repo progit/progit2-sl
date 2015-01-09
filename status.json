@@ -36,12 +36,12 @@
       "1-git-server.asc": 100,
       "sections/generating-ssh-key.asc": 100,
       "sections/git-daemon.asc": 100,
-      "sections/git-on-a-server.asc": 0,
+      "sections/git-on-a-server.asc": 100,
       "sections/gitlab.asc": 100,
       "sections/gitweb.asc": 100,
       "sections/hosted.asc": 100,
       "sections/protocols.asc": 100,
-      "sections/setting-up-server.asc": 0,
+      "sections/setting-up-server.asc": 100,
       "sections/smart-http.asc": 100
     },
     "05-distributed-git": {
