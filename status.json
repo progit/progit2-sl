@@ -29,7 +29,7 @@
       "sections/branch-management.asc": 100,
       "sections/nutshell.asc": 100,
       "sections/rebasing.asc": 0,
-      "sections/remote-branches.asc": 0,
+      "sections/remote-branches.asc": 100,
       "sections/workflows.asc": 100
     },
     "04-git-server": {
@@ -107,17 +107,17 @@
       "sections/transfer-protocols.asc": 0
     },
     "A-git-in-other-environments": {
-      "1-git-other-environments.asc": 0,
-      "sections/bash.asc": 0,
-      "sections/eclipse.asc": 0,
-      "sections/guis.asc": 0,
-      "sections/powershell.asc": 0,
-      "sections/visualstudio.asc": 0,
-      "sections/zsh.asc": 0
+      "1-git-other-environments.asc": 100,
+      "sections/bash.asc": 100,
+      "sections/eclipse.asc": 100,
+      "sections/guis.asc": 50,
+      "sections/powershell.asc": 100,
+      "sections/visualstudio.asc": 100,
+      "sections/zsh.asc": 100
     },
     "B-embedding-git": {
-      "1-embedding-git.asc": 0,
-      "sections/command-line.asc": 0,
+      "1-embedding-git.asc": 100,
+      "sections/command-line.asc": 100,
       "sections/jgit.asc": 0,
       "sections/libgit2.asc": 0
     },
