@@ -25,7 +25,7 @@
     },
     "03-git-branching": {
       "1-git-branching.asc": 100,
-      "sections/basic-branching-and-merging.asc": 0,
+      "sections/basic-branching-and-merging.asc": 100,
       "sections/branch-management.asc": 100,
       "sections/nutshell.asc": 100,
       "sections/rebasing.asc": 0,
@@ -51,11 +51,11 @@
       "sections/maintaining.asc": 0
     },
     "06-github": {
-      "1-github.asc": 0,
-      "sections/1-setting-up-account.asc": 0,
+      "1-github.asc": 100,
+      "sections/1-setting-up-account.asc": 100,
       "sections/2-contributing.asc": 0,
       "sections/3-maintaining.asc": 0,
-      "sections/4-managing-organization.asc": 0,
+      "sections/4-managing-organization.asc": 100,
       "sections/5-scripting.asc": 0
     },
     "07-git-tools": {
