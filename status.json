@@ -77,14 +77,14 @@
       "sections/subtree-merges.asc": 0
     },
     "08-customizing-git": {
-      "1-customizing-git.asc": 0,
+      "1-customizing-git.asc": 100,
       "sections/attributes.asc": 0,
       "sections/config.asc": 0,
       "sections/hooks.asc": 0,
       "sections/policy.asc": 0
     },
     "09-git-and-other-scms": {
-      "1-git-and-other-scms.asc": 0,
+      "1-git-and-other-scms.asc": 100,
       "sections/client-hg.asc": 0,
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,
@@ -96,7 +96,7 @@
       "sections/import-tfs.asc": 0
     },
     "10-git-internals": {
-      "1-git-internals.asc": 0,
+      "1-git-internals.asc": 100,
       "sections/environment.asc": 0,
       "sections/maintenance.asc": 0,
       "sections/objects.asc": 0,
@@ -119,7 +119,7 @@
       "1-embedding-git.asc": 100,
       "sections/command-line.asc": 100,
       "sections/jgit.asc": 100,
-      "sections/libgit2.asc": 0
+      "sections/libgit2.asc": 100
     },
     "C-git-commands": {
       "1-git-commands.asc": 0
