@@ -46,7 +46,7 @@
     },
     "05-distributed-git": {
       "1-distributed-git.asc": 100,
-      "sections/contributing.asc": 0,
+      "sections/contributing.asc": 50,
       "sections/distributed-workflows.asc": 100,
       "sections/maintaining.asc": 0
     },
@@ -74,7 +74,7 @@
       "sections/signing.asc": 0,
       "sections/stashing-cleaning.asc": 0,
       "sections/submodules.asc": 0,
-      "sections/subtree-merges.asc": 0
+      "sections/subtree-merges.asc": 100
     },
     "08-customizing-git": {
       "1-customizing-git.asc": 100,
@@ -93,7 +93,7 @@
       "sections/import-hg.asc": 0,
       "sections/import-p4.asc": 0,
       "sections/import-svn.asc": 0,
-      "sections/import-tfs.asc": 0
+      "sections/import-tfs.asc": 100
     },
     "10-git-internals": {
       "1-git-internals.asc": 100,
@@ -101,7 +101,7 @@
       "sections/maintenance.asc": 0,
       "sections/objects.asc": 0,
       "sections/packfiles.asc": 0,
-      "sections/plumbing-porcelain.asc": 0,
+      "sections/plumbing-porcelain.asc": 100,
       "sections/refs.asc": 0,
       "sections/refspec.asc": 0,
       "sections/transfer-protocols.asc": 0
