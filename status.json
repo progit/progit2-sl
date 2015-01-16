@@ -46,7 +46,7 @@
     },
     "05-distributed-git": {
       "1-distributed-git.asc": 100,
-      "sections/contributing.asc": 50,
+      "sections/contributing.asc": 100,
       "sections/distributed-workflows.asc": 100,
       "sections/maintaining.asc": 0
     },
@@ -56,7 +56,7 @@
       "sections/2-contributing.asc": 0,
       "sections/3-maintaining.asc": 0,
       "sections/4-managing-organization.asc": 100,
-      "sections/5-scripting.asc": 0
+      "sections/5-scripting.asc": 10
     },
     "07-git-tools": {
       "1-git-tools.asc": 100,
@@ -91,7 +91,7 @@
       "sections/client-tfs.asc": 0,
       "sections/import-custom.asc": 0,
       "sections/import-hg.asc": 0,
-      "sections/import-p4.asc": 0,
+      "sections/import-p4.asc": 100,
       "sections/import-svn.asc": 0,
       "sections/import-tfs.asc": 100
     },
