@@ -54,9 +54,9 @@
       "1-github.asc": 100,
       "sections/1-setting-up-account.asc": 100,
       "sections/2-contributing.asc": 0,
-      "sections/3-maintaining.asc": 0,
+      "sections/3-maintaining.asc": 30,
       "sections/4-managing-organization.asc": 100,
-      "sections/5-scripting.asc": 10
+      "sections/5-scripting.asc": 100
     },
     "07-git-tools": {
       "1-git-tools.asc": 100,
@@ -90,9 +90,9 @@
       "sections/client-svn.asc": 0,
       "sections/client-tfs.asc": 0,
       "sections/import-custom.asc": 0,
-      "sections/import-hg.asc": 0,
+      "sections/import-hg.asc": 100,
       "sections/import-p4.asc": 100,
-      "sections/import-svn.asc": 0,
+      "sections/import-svn.asc": 100,
       "sections/import-tfs.asc": 100
     },
     "10-git-internals": {
