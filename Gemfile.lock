@@ -63,7 +63,7 @@ GEM
     hashery (2.1.2)
     i18n (1.2.0)
       concurrent-ruby (~> 1.0)
-    json (2.1.0)
+    json (2.5.1)
     kindlegen (3.0.3)
       rake
       rubyzip
