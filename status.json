@@ -6,12 +6,12 @@
     "01-introduction": {
       "1-introduction.asc": 100,
       "sections/about-version-control.asc": 100,
-      "sections/basics.asc": 100,
       "sections/command-line.asc": 100,
       "sections/first-time-setup.asc": 100,
       "sections/help.asc": 100,
       "sections/history.asc": 100,
-      "sections/installing.asc": 100
+      "sections/installing.asc": 100,
+      "sections/what-is-git.asc": 100
     },
     "02-git-basics": {
       "1-git-basics.asc": 100,
@@ -109,15 +109,19 @@
     "A-git-in-other-environments": {
       "1-git-other-environments.asc": 100,
       "sections/bash.asc": 100,
-      "sections/eclipse.asc": 100,
       "sections/guis.asc": 100,
+      "sections/jetbrainsides.asc": 0,
       "sections/powershell.asc": 100,
+      "sections/sublimetext.asc": 0,
       "sections/visualstudio.asc": 100,
+      "sections/visualstudiocode.asc": 0,
       "sections/zsh.asc": 100
     },
     "B-embedding-git": {
       "1-embedding-git.asc": 100,
       "sections/command-line.asc": 100,
+      "sections/dulwich.asc": 0,
+      "sections/go-git.asc": 0,
       "sections/jgit.asc": 100,
       "sections/libgit2.asc": 100
     },
