@@ -24,7 +24,7 @@
       "sections/viewing-history.asc": 100
     },
     "03-git-branching": {
-      "1-git-branching.asc": 90,
+      "1-git-branching.asc": 100,
       "sections/basic-branching-and-merging.asc": 100,
       "sections/branch-management.asc": 100,
       "sections/nutshell.asc": 100,
@@ -33,7 +33,7 @@
       "sections/workflows.asc": 100
     },
     "04-git-server": {
-      "1-git-server.asc": 90,
+      "1-git-server.asc": 100,
       "sections/generating-ssh-key.asc": 100,
       "sections/git-daemon.asc": 100,
       "sections/git-on-a-server.asc": 100,
@@ -45,13 +45,13 @@
       "sections/smart-http.asc": 100
     },
     "05-distributed-git": {
-      "1-distributed-git.asc": 90,
+      "1-distributed-git.asc": 100,
       "sections/contributing.asc": 100,
       "sections/distributed-workflows.asc": 100,
       "sections/maintaining.asc": 10
     },
     "06-github": {
-      "1-github.asc": 90,
+      "1-github.asc": 100,
       "sections/1-setting-up-account.asc": 100,
       "sections/2-contributing.asc": 0,
       "sections/3-maintaining.asc": 30,
@@ -59,7 +59,7 @@
       "sections/5-scripting.asc": 100
     },
     "07-git-tools": {
-      "1-git-tools.asc": 90,
+      "1-git-tools.asc": 100,
       "sections/advanced-merging.asc": 0,
       "sections/bundling.asc": 0,
       "sections/credentials.asc": 0,
@@ -77,14 +77,14 @@
       "sections/subtree-merges.asc": 100
     },
     "08-customizing-git": {
-      "1-customizing-git.asc": 90,
+      "1-customizing-git.asc": 100,
       "sections/attributes.asc": 0,
       "sections/config.asc": 0,
       "sections/hooks.asc": 0,
       "sections/policy.asc": 0
     },
     "09-git-and-other-scms": {
-      "1-git-and-other-scms.asc": 90,
+      "1-git-and-other-scms.asc": 100,
       "sections/client-hg.asc": 0,
       "sections/client-p4.asc": 0,
       "sections/client-svn.asc": 0,

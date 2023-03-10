@@ -2,11 +2,12 @@ output
 .DS_Store
 
 # build artifacts
-progit_*.html
-progit_*.asc
-progit_*.pdf
+Gemfile.lock
+progit.html
+progit.pdf
 progit.pdfmarks
-progit_*.epub
-progit_*-kf8.epub
-progit_*.mobi
-book/contributors.txt
+progit.epub
+progit.fb2.zip
+progit-kf8.epub
+progit.mobi
+contributors.txt
