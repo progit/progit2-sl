@@ -11,7 +11,7 @@ indent_size              = 4
 tab_width                = 4
 charset                  = utf-8
 
-[*.{asc,md,sh,yaml,yml}]
+[*.{asc,json,md,sh,yaml,yml}]
 indent_size              = 2
 
 [Makefile]
