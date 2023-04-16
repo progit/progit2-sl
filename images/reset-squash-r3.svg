@@ -21,7 +21,7 @@
    <path id="Line-4" d="m8.8138 42.21c30.158-15.115 59.757-28.078 79.474-33.007 9.7558-2.4391 24.013-4.4237 41.596-6.0035 12.172-1.0936 25.211-1.9298 38.251-2.5423 4.5636-.21439 12.822-.49958 16.625-.63167l.0347.9994c-3.7993.13195-12.053.41698-16.613.63117-13.026.61196-26.052 1.4473-38.208 2.5394-17.536 1.5755-31.75 3.5541-41.443 5.9776-19.619 4.9051-49.174 17.848-79.262 32.928l1.8137 3.5614-10.062.0743 5.9778-8.0942z"/>
    <path id="Arrowhead-Filled" d="m8.7557 42.118.61331-.31974.46228.88673-.61331.31974 1.8491 3.5469-10.061.17025 5.9003-8.1508z"/>
   </g>
-  <text id="Git-Repository-8" transform="translate(-130.54 93.055)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan18970" x="206.5" y="213" style="fill:#404040">Git Repository</tspan></text>
+  <text id="Git-Repository-8" transform="translate(-130.54 93.055)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan18970" x="206.5" y="213" style="fill:#404040">Repozitorij Git</tspan></text>
   <g id="g22168" transform="translate(-.052352 93.937)">
    <rect id="Rectangle-8-1" transform="translate(25.9,112)" x=".94325" width="98.528" height="82" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
    <g id="g20385" transform="translate(-.1)">
@@ -60,7 +60,7 @@
      <g id="ref-(2-line)-6" transform="translate(376.88,230.19)">
       <rect id="Rectangle-2-2" width="110.58" height="38" style="fill:#f44d27"/>
      </g>
-     <text id="text20453" transform="translate(-56.635,117.41)" x="488.55258" y="128.65054" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:10px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20451" x="488.55258" y="128.65054" style="fill:#f0f0f0;line-height:13px">Working</tspan><tspan id="tspan20455" x="488.55258" y="141.65054" style="fill:#f0f0f0;line-height:13px">Directory</tspan></text>
+     <text id="text20453" transform="translate(-56.635,117.41)" x="488.55258" y="128.65054" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:10px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20451" x="488.55258" y="128.65054" style="fill:#f0f0f0;line-height:13px">Delovni</tspan><tspan id="tspan20455" x="488.55258" y="141.65054" style="fill:#f0f0f0;line-height:13px">direktorij</tspan></text>
     </g>
    </g>
    <g id="g20522-1" transform="translate(-1.0223 156.99)">
@@ -79,7 +79,7 @@
     <rect id="Rectangle-5-1" transform="translate(162,237)" x="6.6816" y="1" width="98.528" height="117" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
     <g id="symref-(2-line)-1" transform="translate(162.28 236.95)" style="fill-rule:evenodd;fill:none">
      <rect id="rect23187" width="110.58" height="38" style="fill:#00909a"/>
-     <text id="text23191" transform="translate(-.21834 2.134)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan23189" x="55.290054" y="21" style="fill:#f0f0f0">Index</tspan></text>
+     <text id="text23191" transform="translate(-.21834 2.134)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan23189" x="55.290054" y="21" style="fill:#f0f0f0">Indeks</tspan></text>
     </g>
    </g>
    <g id="g20522-9" transform="translate(-141.63 156.99)">

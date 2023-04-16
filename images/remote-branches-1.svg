@@ -71,8 +71,8 @@
     <text id="text13349" transform="translate(253.03 229.26)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13347" x="55.5" y="20" style="fill:#f0f0f0">origin/master</tspan></text>
    </g>
   </g>
-  <text id="My-Computer" transform="translate(4.462,-13.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13352" x="267.5" y="230" style="fill:#404040">My Computer</tspan></text>
-  <text id="Remote-branch" transform="translate(163.1,-13.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13363" x="267.5" y="263" style="fill:#404040">Remote branch</tspan></text>
-  <text id="Local-branch" transform="translate(159.1,-13.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13366" x="267.5" y="370" style="fill:#404040">Local branch</tspan></text>
+  <text id="My-Computer" transform="translate(4.462,-13.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13352" x="267.5" y="230" style="fill:#404040">Moj računalnik</tspan></text>
+  <text id="Remote-branch" transform="translate(163.1,-13.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13363" x="267.5" y="263" style="fill:#404040">Oddaljena veja</tspan></text>
+  <text id="Local-branch" transform="translate(159.1,-13.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13366" x="267.5" y="370" style="fill:#404040">Lokalna veja</tspan></text>
  </g>
 </svg>

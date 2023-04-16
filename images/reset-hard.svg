@@ -42,7 +42,7 @@
       <g id="ref-(2-line)-6" transform="translate(376.88,230.19)">
        <rect id="Rectangle-2-2" width="110.58" height="38" style="fill:#f44d27"/>
       </g>
-      <text id="text20453" transform="translate(-56.635,117.41)" x="488.55258" y="128.65054" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:10px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20451" x="488.55258" y="128.65054" style="fill:#f0f0f0;line-height:13px">Working</tspan><tspan id="tspan20455" x="488.55258" y="141.65054" style="fill:#f0f0f0;line-height:13px">Directory</tspan></text>
+      <text id="text20453" transform="translate(-56.635,117.41)" x="488.55258" y="128.65054" style="fill:#f0f0f0;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:10px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20451" x="488.55258" y="128.65054" style="fill:#f0f0f0;line-height:13px">Delovni</tspan><tspan id="tspan20455" x="488.55258" y="141.65054" style="fill:#f0f0f0;line-height:13px">direktorij</tspan></text>
      </g>
     </g>
    </g>
@@ -51,7 +51,7 @@
      <rect id="Rectangle-5-4" x="6.6816" y="1" width="98.528" height="102" style="stroke-linecap:square;stroke:#8f8981"/>
      <g id="symref-(2-line)-1" transform="translate(.20995)">
       <rect id="rect23187" width="110.58" height="38" style="fill:#00909a"/>
-      <text id="text23191" transform="translate(-.21834 2.134)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan23189" x="55.290054" y="21" style="fill:#f0f0f0">Index</tspan></text>
+      <text id="text23191" transform="translate(-.21834 2.134)" font-size="12px" font-weight="700" style="fill:#979797;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan23189" x="55.290054" y="21" style="fill:#f0f0f0">Indeks</tspan></text>
      </g>
     </g>
     <g id="g20484-3" transform="translate(179.96 289.68)">
@@ -113,7 +113,7 @@
      <text id="text20476-5-7-2" transform="translate(-431.19,-217.97)" x="468.5" y="238.5" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:12px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan20474-8-2-3" x="468.5" y="238.5">file.txt</tspan><tspan id="tspan20478-7-7-9" x="468.5" y="251.5">v3</tspan></text>
     </g>
    </g>
-   <text id="Git-Repository" transform="translate(-130.52 -2.2167)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1279" x="206.5" y="213" style="fill:#404040">Git Repository</tspan></text>
+   <text id="Git-Repository" transform="translate(-130.52 -2.2167)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan1279" x="206.5" y="213" style="fill:#404040">Repozitorij Git</tspan></text>
   </g>
  </g>
 </svg>

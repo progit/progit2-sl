@@ -16,17 +16,17 @@
   <path id="Line-4" d="m343 197v-38h1v38h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
   <g id="symref" transform="translate(300 206)">
    <rect id="Rectangle-2" width="86" height="33" fill="#00909A" fill-rule="evenodd"/>
-   <text id="master" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan35921" x="43" y="20" fill="#f0f0f0">Snapshot C</tspan></text>
+   <text id="master" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan35921" x="43" y="20" fill="#f0f0f0">Posnetek C</tspan></text>
   </g>
   <path id="Line-5" d="m198 197v-38h1v38h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
   <g id="g35932" transform="translate(155 206)">
    <rect id="rect35926" width="86" height="33" fill="#00909A" fill-rule="evenodd"/>
-   <text id="text35930" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan35928" x="43" y="20" fill="#f0f0f0">Snapshot B</tspan></text>
+   <text id="text35930" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan35928" x="43" y="20" fill="#f0f0f0">Posnetek B</tspan></text>
   </g>
   <path id="path35934" d="m53 197v-38h1v38h4l-4.5 9-4.5-9h4z" fill="#8F8981" fill-rule="nonzero"/>
   <g id="g35942" transform="translate(10 206)">
    <rect id="rect35936" width="86" height="33" fill="#00909A" fill-rule="evenodd"/>
-   <text id="text35940" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan35938" x="43" y="20" fill="#f0f0f0">Snapshot A</tspan></text>
+   <text id="text35940" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan35938" x="43" y="20" fill="#f0f0f0">Posnetek A</tspan></text>
   </g>
   <g id="other" transform="translate(300 134)">
    <rect id="rect35944" width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>

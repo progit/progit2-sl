@@ -183,8 +183,8 @@
           <tspan
              style="fill:#404040"
              y="22"
-             x="54.5"
-             id="tspan1849">Staging Area</tspan>
+             x="64.5"
+             id="tspan1849">Področje priprave</tspan>
         </text>
         <text
            style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#404040"
@@ -196,7 +196,7 @@
              style="fill:#404040"
              y="22"
              x="54.5"
-             id="tspan1852">Working Directory</tspan>
+             id="tspan1852">Delovni direktorij</tspan>
         </text>
         <text
            style="font-weight:700;font-size:12px;font-family:'Source Code Pro';text-anchor:middle;fill:#404040"

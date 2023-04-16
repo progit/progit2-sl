@@ -72,7 +72,7 @@
    </g>
   </g>
   <rect id="Rectangle-11" transform="translate(-5.5,-7.5)" x="29.735" y="219" width="626.45" height="262" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
-  <text id="My-Computer" transform="translate(24.197,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14647" x="313.22549" y="236" style="fill:#404040">My Computer</tspan></text>
+  <text id="My-Computer" transform="translate(24.197,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan14647" x="313.22549" y="236" style="fill:#404040">Moj računalnik</tspan></text>
   <text id="git-fetch-teamone" transform="translate(32.5,-7.5)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;text-align:center;text-anchor:middle"><tspan id="tspan14650" x="313.22549" y="198" style="fill:#404040;font-family:'Source Code Pro';font-feature-settings:normal;font-size:16px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:500;line-height:15px;text-align:center;text-anchor:middle">git fetch teamone</tspan></text>
   <g id="g11090" transform="translate(6.0038)">
    <path id="Line-8" transform="translate(18.5,43.5)" d="m0 69.5 9-4.5v9zm47.5-.5v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1zm-4 0v1h-2v-1z" style="fill:#8f8981"/>

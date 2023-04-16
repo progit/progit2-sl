@@ -39,8 +39,8 @@
     <rect id="rect27986" width="86" height="33" fill="#EFEFE7" fill-rule="evenodd"/>
     <text id="text27990" fill="#979797" font-family="Source Code Pro" font-size="12px" font-weight="700" text-anchor="middle"><tspan id="tspan27988" x="43" y="21" fill="#808080">fileC.rb</tspan></text>
    </g>
-   <text id="Staging-Area" transform="translate(-11.412)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan27994" x="54.5" y="22" style="fill:#404040">Staging Area</tspan></text>
-   <text id="Working-Directory" transform="translate(289.15)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan27997" x="54.5" y="22" style="fill:#404040">Working Directory</tspan></text>
+   <text id="Staging-Area" transform="translate(-11.412)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:11px;font-weight:700;text-anchor:middle"><tspan id="tspan27994" x="64.5" y="22" style="fill:#404040">Področje priprave</tspan></text>
+   <text id="Working-Directory" transform="translate(289.15)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:11px;font-weight:700;text-anchor:middle"><tspan id="tspan27997" x="54.5" y="22" style="fill:#404040">Delovni direktorij</tspan></text>
    <text id="*.txt-Filter" transform="translate(138.43)" font-size="12px" font-weight="700" style="fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan28000" x="54.5" y="22" style="fill:#404040">*.txt Filter</tspan></text>
    <g id="ref" transform="translate(150 45)">
     <rect id="rect28003" width="86.187" height="33" fill="#F44D27" fill-rule="evenodd"/>

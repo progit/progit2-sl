@@ -88,8 +88,8 @@
   </g>
   <rect id="Rectangle-10" transform="translate(19,17)" x="-.26502" width="626.45" height="144.97" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
   <rect id="Rectangle-11" transform="translate(19,17)" x="-.26502" y="191" width="626.45" height="185" style="fill:none;stroke-linecap:square;stroke:#8f8981"/>
-  <text id="My-Computer" transform="translate(18.696 17)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13649" x="313.22549" y="208" style="fill:#404040">My Computer</tspan></text>
+  <text id="My-Computer" transform="translate(18.696 17)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13649" x="313.22549" y="208" style="fill:#404040">Moj računalnik</tspan></text>
   <text id="git.ourcompany.com" transform="translate(18.576 17)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#404040;font-family:'Source Code Pro';font-size:12px;font-weight:700;text-anchor:middle"><tspan id="tspan13652" x="313.22549" y="16" style="fill:#404040">git.ourcompany.com</tspan></text>
-  <text id="Someone-else-pushes" transform="translate(-2.7978)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#414141;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan13656" x="490" y="157" style="fill:#414141">Someone else pushes</tspan></text>
+  <text id="Someone-else-pushes" transform="translate(-2.7978)" font-size="12px" font-weight="700" style="fill-rule:evenodd;fill:#414141;font-family:'Source Code Pro';font-size:12px;font-weight:700"><tspan id="tspan13656" x="490" y="157" style="fill:#414141">Nekdo drug potisne</tspan></text>
  </g>
 </svg>
