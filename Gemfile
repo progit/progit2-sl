@@ -14,7 +14,7 @@ gem 'coderay', '1.1.3'
 gem 'pygments.rb', '2.3.1'
 gem 'thread_safe', '0.3.6'
 gem 'epubcheck-ruby', '5.0.0.0'
-gem 'html-proofer', '5.0.6'
+gem 'html-proofer', '5.0.7'
 gem 'kindlegen', '3.1.1'
 
 gem 'rouge', '4.1.0'
