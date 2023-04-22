@@ -27,7 +27,7 @@
     </g>
     <g id="g1170" transform="translate(.5284)" style="fill-rule:evenodd">
      <rect id="rect1162" transform="translate(284.95,4)" x=".5" y=".5" width="109.58" height="37" style="fill:#efefe7;stroke:gray"/>
-     <text id="text990" transform="translate(-25.325,77.518)" x="364.63309" y="-57.685589" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:11px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan988" x="364.63309" y="-57.685589">direktorij .git</tspan><tspan id="tspan992" x="364.63309" y="-44.618923">(repozitorij)</tspan></text>
+     <text id="text990" transform="translate(-25.325,77.518)" x="364.63309" y="-57.685589" style="fill:gray;font-family:'Source Code Pro';font-feature-settings:normal;font-size:11px;font-variant-caps:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-weight:bold;letter-spacing:0px;line-height:13.0666666px;text-align:center;text-anchor:middle;word-spacing:0px" xml:space="preserve"><tspan id="tspan988" x="364.63309" y="-57.685589">Direktorij .git</tspan><tspan id="tspan992" x="364.63309" y="-44.618923">(repozitorij)</tspan></text>
     </g>
     <g id="g347">
      <path id="path1174" transform="translate(.5284)" d="m122.38 70.5h216.95v21.875h-216.95v6.447l-63.25-17.319 63.25-17.525z" style="fill:#8f8981"/>
