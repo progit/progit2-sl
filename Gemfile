@@ -17,4 +17,4 @@ gem 'epubcheck-ruby', '5.1.0.0'
 gem 'html-proofer', '5.0.9'
 gem 'kindlegen', '3.1.1'
 
-gem 'rouge', '4.4.0'
+gem 'rouge', '4.5.1'
